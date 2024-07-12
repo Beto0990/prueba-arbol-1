@@ -3,19 +3,41 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Primera Página Web</title>
+    <title>Árbol de Diagnóstico</title>
     <link rel="stylesheet" href="styles.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="script.js" defer></script>
 </head>
 <body>
-    <header>
-        <h1>Bienvenido a mi primera página web</h1>
-    </header>
-    <main>
-        <section id="content">
-            <h2>Datos de una API</h2>
-            <div id="api-data"></div>
-        </section>
-    </main>
-    <script src="script.js"></script>
+    <h1 id="category-title">Árbol de Diagnóstico</h1>
+    <div class="container">
+        <div class="sidebar">
+            <h3>Menú</h3>
+        </div>
+        <div class="main-content">
+            <section id="categorias">
+                <h2>Categorías</h2>
+                <div class="button-container"></div>
+            </section>
+            <section id="sintomas" style="display:none;">
+                <h2>Síntomas</h2>
+                <div class="button-container"></div>
+            </section>
+            <section id="preguntas" style="display:none;">
+                <h2>Preguntas</h2>
+                <div id="pregunta-texto"></div>
+                <div class="button-container"></div>
+            </section>
+            <section id="diagnostico" style="display:none;">
+                <h2>Diagnóstico</h2>
+            </section>
+            <div id="button-group" style="display:none;">
+                <button id="back-button" class="back">Regresar</button>
+                <button id="pdf-button" class="warning">Guardar como PDF</button>
+                <button id="inicio-button" class="green">Regresar al Inicio</button>
+            </div>
+        </div>
+    </div>
 </body>
 </html>
