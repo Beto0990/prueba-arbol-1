@@ -1,0 +1,27 @@
+[
+    { "DiagnosticoID": 1, "FallaID": 1, "Descripcion": "Recopilar código de error, guardar el código en el desperfecto, solicitar a cliente si es posible que nos comparta una imagen del código de error y crear orden de servicio" },
+    { "DiagnosticoID": 2, "FallaID": 2, "Descripcion": "Guardar la falla en desperfecto, crear orden de servicio y se le debe indicar al cliente que es necesario que se desconecte el refrigerador un día antes de la visita para que nuestro técnico pueda trabajar." },
+    { "DiagnosticoID": 3, "FallaID": 3, "Descripcion": "Guardar la falla en desperfecto y crear orden de servicio." },
+    { "DiagnosticoID": 4, "FallaID": 4, "Descripcion": "Conecte la refrigeradora directamente a la toma de corriente, si el problema continuo por favor llamar para coordinar su visita técnica, si funciona cambiar el protector de voltaje." },
+    { "DiagnosticoID": 5, "FallaID": 5, "Descripcion": "Será necesario que se soluciones el problema eléctrico y si continua con el problema por favor llamarnos para agendar su visita técnica" },
+    { "DiagnosticoID": 6, "FallaID": 6, "Descripcion": "Guardar la falla en desperfecto y crear orden de servicio" },
+    { "DiagnosticoID": 7, "FallaID": 7, "Descripcion": "Recopilar código de error, guardar el código en el desperfecto, solicitar a cliente si es posible que nos comparta una imagen del código de error y crear orden de servicio" },
+    { "DiagnosticoID": 8, "FallaID": 8, "Descripcion": "Guardar la falla en desperfecto y crear orden de servicio" },
+    { "DiagnosticoID": 9, "FallaID": 9, "Descripcion": "Guardar la falla en desperfecto, crear orden de servicio y se le debe indicar al cliente que es necesario que se desconecte el refrigerador un día antes de la visita para que nuestro técnico pueda trabajar, solicitar a cliente si es posible que nos comparta una fotografía de la escarcha que se puede visualizar" },
+    { "DiagnosticoID": 10, "FallaID": 10, "Descripcion": "Guardar la falla en desperfecto y crear orden de servicio" },
+    { "DiagnosticoID": 11, "FallaID": 11, "Descripcion": "Conecte la refrigeradora directamente a la toma de corriente, si el problema continuo por favor llamar para coordinar su visita técnica, si funciona cambiar el protector de voltaje." },
+    { "DiagnosticoID": 12, "FallaID": 12, "Descripcion": "Será necesario que se soluciones el problema eléctrico y si continua con el problema por favor llamarnos para agendar su visita técnica" },
+    { "DiagnosticoID": 13, "FallaID": 13, "Descripcion": "Guardar la falla en desperfecto y crear orden de servicio" },
+    { "DiagnosticoID": 14, "FallaID": 14, "Descripcion": "Recopilar código de error, guardar el código en el desperfecto, solicitar a cliente si es posible que nos comparta una imagen del código de error y crear orden de servicio" },
+    { "DiagnosticoID": 15, "FallaID": 15, "Descripcion": "Primero es necesario remplazar el filtro, si el problema continuo, se debe de agendar visita Técnica, si el cliente desea una visita para el cambio de filtros, tiene un costo de Q 175.00 por visita + el costo de los filtros" },
+    { "DiagnosticoID": 16, "FallaID": 16, "Descripcion": "Guardar la falla en desperfecto y crear orden de servicio" },
+    { "DiagnosticoID": 17, "FallaID": 17, "Descripcion": "Guardar la falla en desperfecto y crear orden de servicio" },
+    { "DiagnosticoID": 18, "FallaID": 18, "Descripcion": "Guardar la falla en desperfecto y crear orden de servicio" },
+    { "DiagnosticoID": 19, "FallaID": 19, "Descripcion": "Revisar el subministro de agua, si el problema continuo, debe comunicarse nuevamente para agendar una visita técnica" },
+    { "DiagnosticoID": 20, "FallaID": 20, "Descripcion": "Recopilar código de error, guardar el código en el desperfecto, solicitar a cliente si es posible que nos comparta una imagen del código de error y crear orden de servicio" },
+    { "DiagnosticoID": 21, "FallaID": 21, "Descripcion": "Se recomienda instalar la lavadora sobre una superficie plana y nivelada, si el problema persiste comunicarse nuevamente para agendar su visita técnica" },
+    { "DiagnosticoID": 22, "FallaID": 22, "Descripcion": "Verificar que dentro de la tina no se encuentran objetos como monedas, ganchos, etc. informar al cliente que la ropa se debe colocar de manera extendida sobre la superficie de la tina tratando de mantener siempre uniformidad en el peso de lo contrario puede provocar un desbalance y esto da como resultado ruido ya que la tina golpea con otras partes internas de la lavadora" },
+    { "DiagnosticoID": 23, "FallaID": 23, "Descripcion": "Guardar falla en desperfecto, crear orden de servicio, solicitar a cliente video del ruido." },
+    { "DiagnosticoID": 24, "FallaID": 24, "Descripcion": "Guardar falla en desperfecto, crear orden de servicio, solicitar a cliente video del ruido, En caso sea necesario reemplazo de cojinetes, producto debe ser trasladado a taller" }
+
+]

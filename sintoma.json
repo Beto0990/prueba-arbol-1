@@ -1,0 +1,8 @@
+[
+    { "SintomaID": 1, "Nombre": "No enfría", "CategoriaID": 2 },
+    { "SintomaID": 2, "Nombre": "No congela", "CategoriaID": 2 },
+    { "SintomaID": 3, "Nombre": "No dispensa agua / hielo", "CategoriaID": 2 },
+    { "SintomaID": 4, "Nombre": "Ruido al momento de lavar", "CategoriaID": 1 },
+    { "SintomaID": 5, "Nombre": "No saca el agua", "CategoriaID": 1 }
+]
+

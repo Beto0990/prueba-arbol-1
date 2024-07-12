@@ -1,0 +1,10 @@
+[
+    { "CategoriaID": 1, "Nombre": "Lavadoras De Ropa" },
+    { "CategoriaID": 2, "Nombre": "Refrigeradoras" },
+    { "CategoriaID": 3, "Nombre": "Congeladores" },
+    { "CategoriaID": 4, "Nombre": "Estufas de gas" },
+    { "CategoriaID": 5, "Nombre": "Estufas Eléctricas" },
+    { "CategoriaID": 6, "Nombre": "Torres de lavado" },
+    { "CategoriaID": 7, "Nombre": "Secadoras De Ropa" }
+
+]

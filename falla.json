@@ -1,0 +1,27 @@
+[
+    { "FallaID": 1, "Descripcion": "Código de error" },
+    { "FallaID": 2, "Descripcion": "Posible obstrucción de retorno de aire en el sistema de enfriamiento" },
+    { "FallaID": 3, "Descripcion": "Posible obstrucción de retorno de aire en el sistema de enfriamiento o drenaje tapado" },
+    { "FallaID": 4, "Descripcion": "Protector de voltaje dañado" },
+    { "FallaID": 5, "Descripcion": "Sistema eléctrico de cliente dañado" },
+    { "FallaID": 6, "Descripcion": "Probablemente el Compresor no está arrancando." },
+    { "FallaID": 7, "Descripcion": "Código de error" },
+    { "FallaID": 8, "Descripcion": "Posible obstrucción de tubería interna o daño en compresor" },
+    { "FallaID": 9, "Descripcion": "Posible obstrucción de retorno de aire en el sistema de enfriamiento o drenaje tapado" },
+    { "FallaID": 10, "Descripcion": "Posible tarjeta de control o sistema de enfriamiento dañados." },
+    { "FallaID": 11, "Descripcion": "Protector de voltaje dañado" },
+    { "FallaID": 12, "Descripcion": "Sistema eléctrico de cliente con problemas." },
+    { "FallaID": 13, "Descripcion": "Posible daño en tarjeta principal." },
+    { "FallaID": 14, "Descripcion": "Código de error" },
+    { "FallaID": 15, "Descripcion": "Posiblemente los filtros estén tapados" },
+    { "FallaID": 16, "Descripcion": "Posible taponamiento en sistema de subministro de agua interno" },
+    { "FallaID": 17, "Descripcion": "Posible daño en máquina de hielo o sistema de subministro de agua interno" },
+    { "FallaID": 18, "Descripcion": "Posible daño en máquina de hielo o sistema de subministro de agua interno" },
+    { "FallaID": 19, "Descripcion": "Problema con el subministro de agua del cliente" },
+    { "FallaID": 20, "Descripcion": "Código de error" },
+    { "FallaID": 21, "Descripcion": "Posible daño por mala nivelación" },
+    { "FallaID": 22, "Descripcion": "Posible mala distribución de la carga (ropa) u objetos solidos dentro de la tina" },
+    { "FallaID": 23, "Descripcion": "Posible problema con la suspensión" },
+    { "FallaID": 24, "Descripcion": "Posible problema con transmisión, actuador o cojinetes" }
+    
+]
